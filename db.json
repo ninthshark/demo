@@ -1,4 +1,4 @@
-[{
+{"customers": [{
   "id":1,
   "name":"Bob",
   "drink":"Latte"
@@ -8,3 +8,4 @@
   "name":"Jason",
   "drink":"Jack Coke"
 }]
+}
